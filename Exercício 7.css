@@ -1,0 +1,28 @@
+.xyzl{
+    text-align: center;
+    width: 50%;
+    position: relative;
+    left: 25%;
+    border-width: medium;
+    background-image: url("w3resource-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.medium{
+    border-width: medium;
+}
+.solid{
+    border-style: solid;
+}
+.blue{
+    border-color: rgb(14, 167, 167);
+}
+body{
+    background-color: black;
+}
+p{
+    color: antiquewhite;
+}
+h1{
+    color: aliceblue;
+}
